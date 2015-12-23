@@ -1,6 +1,6 @@
 name: bown
 favicon: null
-layout_spectrum: 0.030317838536575437
+layout_spectrum: 0.34548
 typography_spectrum: 0.958316563628614
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#395b77'
+    - '#fcfdf7'
+    - '#99a1ab'
+    - '#a66b31'
   brandStrength: 0.4375
   lightness: 0.8174537417944521
   saturation: 0.22438065288588405
