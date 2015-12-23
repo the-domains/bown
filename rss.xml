@@ -4,8 +4,15 @@
         <description><![CDATA[bown]]></description>
         <link>https://thegrid.ai/bown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 23:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 23:54:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bown/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3rd test]]></title>
+            <description><![CDATA[<article><h1>3rd test</h1><p>8900765778jjbn</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38f1a120-b361-41d1-a6b7-7d7cfc68add0.png"></article>]]></description>
+            <link>https://thegrid.ai/bown/3rd-test/index.html</link>
+            <guid isPermaLink="false">21bd52d5-9149-40c5-ae12-63999ae2be62</guid>
+            <pubDate>Wed, 23 Dec 2015 23:54:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2nd try]]></title>
             <description><![CDATA[<article><h1>2nd try</h1><p>2nd time try to test</p></article>]]></description>
